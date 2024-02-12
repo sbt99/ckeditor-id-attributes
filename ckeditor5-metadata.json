@@ -1,0 +1,17 @@
+{
+  "plugins": [
+    {
+      "name": "Id attributes",
+      "className": "IdAttributes",
+      "description": "Adds text to the editor.",
+      "path": "src/idattributes.js",
+      "uiComponents": [
+        {
+          "name": "idAttributesButton",
+          "type": "Button",
+          "iconPath": "theme/icons/ckeditor.svg"
+        }
+      ]
+    }
+  ]
+}
